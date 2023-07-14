@@ -1,3 +1,4 @@
 Rifa Resolusi
 - Konsisten untuk belajar web programmer
 - Membuat Website sederhana
+- Membuat Website yang lebih kompleks
