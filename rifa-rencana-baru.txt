@@ -3,4 +3,5 @@ Rencana Rifa
 - Membuat Website Batu Alam
 - Membuat Website Plafon
 - Membuat Website dll
-- Mebuat Materi C
+- Membuat materi A
+- Membuat materi B
